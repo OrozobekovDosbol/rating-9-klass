@@ -15,3 +15,12 @@ th {
 tbody tr th:nth-child(3) {
   background-color: black;
 }
+
+
+.result {
+  padding: 60px;
+  background-color: rgb(83, 115, 197);
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
